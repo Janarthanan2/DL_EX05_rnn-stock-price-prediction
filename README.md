@@ -54,8 +54,7 @@ X_train.shape
 length = 60
 n_features = 1
 model = Sequential([
-    SimpleRNN(50, input_shape = (length, n_features)),
-    Dense(1)
+    SimpleRNN(50, input_shape = (length, n_features)),Dense(1)
 ])
 model.compile(optimizer='adam',loss='mse')
 print("JANARTHANAN V K/n212222230051")
