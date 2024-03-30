@@ -1,4 +1,4 @@
-# Stock Price Prediction
+# EX05 Stock Price Prediction
 
 ## AIM
 
