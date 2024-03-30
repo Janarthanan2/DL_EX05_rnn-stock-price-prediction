@@ -89,10 +89,10 @@ plt.legend()
 plt.show()
 ```
 ## Output
-### True Stock Price, Predicted Stock Price vs time
+#### True Stock Price, Predicted Stock Price vs time
 <img src="https://github.com/Janarthanan2/DL_EX05_rnn-stock-price-prediction/assets/119393515/2c0841de-9e72-4f99-9ab9-e0347e1bd589" width=50%>
 
-### Mean Square Error
+#### Mean Square Error
 <img src="https://github.com/Janarthanan2/DL_EX05_rnn-stock-price-prediction/assets/119393515/87f89dab-64de-43ab-93a3-6d0faac0be7b" width=50%><img src="https://github.com/Janarthanan2/DL_EX05_rnn-stock-price-prediction/assets/119393515/69dad042-6bd6-48e1-8621-394828877984" width=30%>
 
 ## Result
